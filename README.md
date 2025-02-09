@@ -31,7 +31,7 @@ You can install the required packages by running the following command:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Running the Code
 
 ### Download the required datasets:
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 - **active_cases_2020-07-17_0800.csv**: This is fetched directly from the provided URL in the script.
 
 ### Run the script to generate the visualizations:
-- Execute the Python script using any Python IDE or command line interface.
+- Execute the Python script in the Jupyter notebook provided or command line interface.
 
 ### The output includes interactive visualizations:
 - A bar chart showing the recovery rates across states.
@@ -51,4 +51,3 @@ pip install -r requirements.txt
 - **Patients Recovered Across States**: A bar chart highlighting states with the most recoveries.
 - **COVID-19 Cases by Age Group**: A bar chart and pie chart depicting the total cases and distribution by age group.
 - **Active Cases Across States**: A choropleth map displaying the intensity of active cases in each state.
->>>>>>> Initial commit for Covid Data Analysis project
